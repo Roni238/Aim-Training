@@ -100,3 +100,8 @@ h1 {
   border-radius: 50%;
   cursor: pointer;
 }
+@media (max-width: 600px){
+      .board{
+        width: 95%;
+      }
+}
